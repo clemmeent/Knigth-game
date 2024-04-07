@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ Game\ instancie\ GameEngine\ et\ UserInterface\ et\ les\ associe\ ensemble\ pour\ permettre\ le\ fonctionnement\ du\ jeu.\r\n\ @Cl\u00E9ment\ Sainte-Rose\r\n
+comment1.params=
+comment1.target=Game()
+comment1.text=\r\n\ Le\ constructeur\ par\ d\u00E9faut\ de\ la\ classe\ Game\ cr\u00E9e\ une\ instance\ de\ GameEngine\ et\ une\ instance\ de\ UserInterface,\r\n\ Puis\ associe\ l'instance\ de\ GameEngine\ \u00E0\ l'instance\ de\ UserInterface\ en\ appelant\ la\ m\u00E9thode\ setGUI()\ de\ GameEngine.\r\n
+numComments=2

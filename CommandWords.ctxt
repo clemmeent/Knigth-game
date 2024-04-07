@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CommandWords
+comment0.text=\r\n\ CommandWords\ permet\ de\ v\u00E9rifier\ si\ une\ cha\u00EEne\ de\ caract\u00E8res\ correspond\ \u00E0\ une\ commande\ ou\ une\ direction\ valide\ pour\ un\ jeu\ vid\u00E9o\ textuel.\r\n\ @Cl\u00E9ment\ Sainte-Rose\r\n
+comment1.params=
+comment1.target=CommandWords()
+comment1.text=\r\n\ Constructeur\ par\ d\u00E9faut\ vide.\r\n
+comment2.params=pString
+comment2.target=boolean\ isCommand(java.lang.String)
+comment2.text=\r\n\ Cette\ m\u00E9thode\ prend\ en\ param\u00E8tre\ une\ cha\u00EEne\ de\ caract\u00E8res.\r\n\ Elle\ v\u00E9rifie\ si\ cette\ cha\u00EEne\ est\ une\ commande\ valide\ pour\ le\ jeu\ en\ comparant\ la\ cha\u00EEne\ avec\ chaque\ \u00E9l\u00E9ment\ de\ la\ liste\ aValidCommands.\ \r\n\ Si\ la\ cha\u00EEne\ correspond\ \u00E0\ une\ commande\ valide,\ la\ m\u00E9thode\ retourne\ true,\ sinon\ elle\ retourne\ false.\r\n
+comment3.params=pString
+comment3.target=boolean\ isDirection(java.lang.String)
+comment3.text=\r\n\ Cette\ m\u00E9thode\ v\u00E9rifie\ si\ la\ cha\u00EEne\ pass\u00E9e\ en\ param\u00E8tre\ correspond\ \u00E0\ une\ direction\ valide.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getCommandList()
+comment4.text=\r\n\ Cette\ m\u00E9thode\ retourne\ une\ cha\u00EEne\ de\ caract\u00E8res\ contenant\ la\ liste\ de\ toutes\ les\ commandes\ valides\ pour\ le\ jeu,\ s\u00E9par\u00E9es\ par\ des\ espaces.\r\n
+numComments=5

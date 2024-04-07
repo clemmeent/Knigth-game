@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Item
+comment0.text=\r\n\ Item\ permet\ de\ d\u00E9finir\ des\ objets\ et\ d'obtenir\ leur\ nom,\ leur\ description\ et\ leur\ poids,\r\n\ Ainsi\ que\ des\ m\u00E9thodes\ pour\ obtenir\ une\ description\ courte\ ou\ longue\ de\ l'objet.\r\n\ @Cl\u00E9ment\ Sainte-Rose\r\n
+comment1.params=pName\ pDescription\ pWeight
+comment1.target=Item(java.lang.String,\ java.lang.String,\ double)
+comment1.text=\r\n\ Constructeur\ qui\ permet\ de\ cr\u00E9er\ un\ nouvel\ objet\ avec\ son\ nom,\ sa\ description\ et\ son\ poids.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Cette\ m\u00E9thode\ est\ un\ accesseur\ qui\ permet\ de\ r\u00E9cup\u00E9rer\ le\ nom\ de\ l'objet.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDescription()
+comment3.text=\r\n\ Cette\ m\u00E9thode\ est\ un\ accesseur\ qui\ permet\ de\ r\u00E9cup\u00E9rer\ la\ description\ de\ l'objet.\r\n
+comment4.params=
+comment4.target=double\ getWeight()
+comment4.text=\r\n\ Cette\ m\u00E9thode\ est\ un\ accesseur\ qui\ permet\ de\ r\u00E9cup\u00E9rer\ le\ poids\ de\ l'objet.\r\n
+comment5.params=
+comment5.target=java.lang.String\ getItemDescription()
+comment5.text=\r\n\ Cette\ m\u00E9thode\ retourne\ la\ description\ courte\ de\ l'objet,\ qui\ est\ simplement\ son\ nom\ et\ son\ poids.\r\n
+comment6.params=
+comment6.target=java.lang.String\ getLongItemDescription()
+comment6.text=\r\n\ Cette\ m\u00E9thode\ retourne\ la\ description\ longue\ de\ l'objet,\ qui\ contient\ son\ nom,\ son\ poids\ et\ sa\ description.\r\n
+numComments=7

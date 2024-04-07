@@ -1,0 +1,27 @@
+go north
+go south
+go west
+go west
+take key
+go east
+go south
+go west
+take beamer
+go east
+charge beamer
+go east
+go south
+go south
+take bread
+eat bread
+fire beamer
+inventory
+look
+help
+go south
+go west
+take key
+go east
+go south
+go south
+go down

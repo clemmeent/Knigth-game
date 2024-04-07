@@ -1,0 +1,6 @@
+take key
+go west
+drop key
+look
+help
+eat

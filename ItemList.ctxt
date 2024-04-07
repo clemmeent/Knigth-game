@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=ItemList
+comment0.text=\r\n\ Cette\ classe\ g\u00E8re\ la\ liste\ des\ objets\ dans\ une\ pi\u00E8ce\ ou\ l'inventaire\ du\ joueur.\r\n\ Elle\ contient\ des\ m\u00E9thodes\ telles\ que\ getItem(),\ qui\ renvoie\ un\ objet\ en\ fonction\ de\ son\ nom,\ ou\ addItem(),\ qui\ ajoute\ un\ objet\ \u00E0\ la\ liste.\r\n\ @Cl\u00E9ment\ Sainte-Rose\r\n
+comment1.params=pLocation
+comment1.target=ItemList(java.lang.String)
+comment1.text=\r\n\ Constructeur\ de\ la\ classe\ il\ prend\ en\ entr\u00E9e\ la\ localisation\ de\ la\ liste\ d'items,\ \r\n\ Qui\ peut\ \u00EAtre\ soit\ l'inventaire\ du\ joueur,\ soit\ une\ pi\u00E8ce\ dans\ le\ jeu.\r\n\ \r\n
+comment2.params=pItem
+comment2.target=Item\ getItem(java.lang.String)
+comment2.text=\r\n\ Cette\ m\u00E9thode\ r\u00E9cup\u00E8re\ un\ item\ de\ la\ liste\ en\ utilisant\ son\ nom\ (cl\u00E9)\ en\ entr\u00E9e,\ et\ retourne\ l'objet\ Item\ correspondant.\r\n
+comment3.params=
+comment3.target=java.util.HashMap\ getItems()
+comment3.text=\r\n\ Cette\ m\u00E9thode\ renvoie\ une\ HashMap\ compl\u00E8te\ contenant\ tous\ les\ items\ de\ la\ liste.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getItemString()
+comment4.text=\r\n\ Cette\ m\u00E9thode\ renvoie\ une\ cha\u00EEne\ de\ caract\u00E8res\ contenant\ tous\ les\ noms\ des\ items\ de\ la\ liste.\r\n
+comment5.params=pName\ pItem
+comment5.target=void\ addItem(java.lang.String,\ Item)
+comment5.text=\r\n\ Cette\ proc\u00E9dure\ permet\ d'ajouter\ un\ nouvel\ item\ dans\ la\ liste\ en\ sp\u00E9cifiant\ son\ nom\ (cl\u00E9)\ et\ l'objet\ Item\ correspondant.\r\n
+comment6.params=pName
+comment6.target=void\ removeItem(java.lang.String)
+comment6.text=\r\n\ Cette\ proc\u00E9dure\ permet\ de\ supprimer\ un\ item\ de\ la\ liste\ en\ utilisant\ son\ nom\ (cl\u00E9)\ en\ entr\u00E9e.\r\n
+numComments=7
